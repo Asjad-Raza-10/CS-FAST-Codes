@@ -1,4 +1,4 @@
-# Programming Course 
+# CS FAST CODES 
  Practice Problems & Solutions for Different Concepts
 
 This repository has questions and excercise problems to strengthen different concepts of complete Computer Science Degree.
